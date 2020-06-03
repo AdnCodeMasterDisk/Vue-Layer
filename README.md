@@ -1,2 +1,2 @@
-# Vue-Layer
-This is un template with a layer system for developer app and web page with vue, vou-router, sass, webpack
+# Vue-WepPack
+This is a templete of the vue with webpack using sass and vue-router for make applications web
